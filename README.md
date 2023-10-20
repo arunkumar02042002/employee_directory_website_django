@@ -41,22 +41,22 @@ This is a simple Django project that demonstrates how to work with URLs, templat
 ### Getting Started
 
 - Installation: Ensure you have Django installed. If not, you can install it using pip:
-```
-pip install Django
-```
+    ```
+    pip install Django
+    ```
 
 - Clone the Repository: Clone this project's repository to your local machine.
 
 - Database Setup: Configure your database settings in the project's settings.py file. Run migrations to create the necessary database tables:
-```
-python manage.py makemigrations
-python manage.py migrate
-```
+    ```
+    python manage.py makemigrations
+    python manage.py migrate
+    ```
 
 - Run the Development Server: Start the Django development server:
-```
-python manage.py runserver
-```
+    ```
+    python manage.py runserver
+    ```
 
 - Access the Application: Open your web browser and navigate to http://127.0.0.1:8000/ to access the Employee Directory Website.
 
